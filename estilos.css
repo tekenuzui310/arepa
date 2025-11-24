@@ -1,3 +1,8 @@
+@media (max-width: 767px) {
+    .resolucionpc{
+        display: none;
+    }
+}
 
 
 .fuentes_1 {
