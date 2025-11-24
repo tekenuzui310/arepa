@@ -1,0 +1,78 @@
+
+
+.fuentes_1 {
+    font-size: 150%;
+}
+#funcion{
+    width: 500px;
+    height: 80px;
+    background-color: rgba(57, 58, 58 , 0.6);
+    border: 1px solid black;
+    
+}
+#funcion_1{
+    
+
+    position: absolute;
+    top: 34%;
+    width: 92%;
+    text-align: center;
+    font-size: 20px;
+    background-color: rgba(57, 58, 58 , 0.6);
+    margin: 30px;
+    border: 1px;
+
+
+}
+
+
+.imagen_de_fondo_web_2 {
+    margin: 30px;
+    background-color: rgba(57, 58, 58, 0.6);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+}
+body{
+    background-image: url(imagenes/imagen\ fundo_1.jpg);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family:Meow Script,cursive,sans-serif;
+    font-size: 80px;
+    font-weight:400;
+    
+}
+strong{
+    color: rgb(255, 255, 255);
+}
+label{
+    color: rgb(255, 255, 255);
+}
+dt{
+    color: rgb(145, 118, 0);
+}
+h2{
+    color: rgb(255, 255, 255);
+    
+}   
+img.imagen_2{
+    border-radius: 60%;
+    width: 4%;
+    height: 4%;
+}
+dd{
+    color: rgb(255, 255, 255);
+}
+
+
+#final{
+    
+    position: absolute;
+    top: 120%;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+}
+
